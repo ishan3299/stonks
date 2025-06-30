@@ -72,3 +72,36 @@ Invest 100,000 INR across 20 ETFs traded on the NSE, with 5,000 INR per ETF, tar
 - **Diversification**: Spans 18 distinct sectors/themes, including commodities as a hedge.  
 - **Liquidity**: All ETFs have sufficient trading volume for investment.  
 - **Risk Warning**: High-risk investments may result in substantial losses; past performance is not indicative of future results.
+
+
+
+# ETF Share Allocation  
+## Objective  
+Calculate the number of shares purchasable with 5,000 INR for each of the 20 selected ETFs, based on the Last Traded Price (LTP) from the provided data as of June 30, 2025.
+
+## Share Allocation List  
+1. **MODEFENCE** (LTP: 97.54) - 51 shares  
+2. **MON100** (LTP: 193.00) - 25 shares  
+3. **MAFANG** (LTP: 141.00) - 35 shares  
+4. **MOHEALTH** (LTP: 44.68) - 111 shares  
+5. **EVINDIA** (LTP: 29.50) - 169 shares  
+6. **HDFCSML250** (LTP: 179.37) - 27 shares  
+7. **MIDCAPETF** (LTP: 22.68) - 220 shares  
+8. **PVTBANIETF** (LTP: 28.37) - 176 shares  
+9. **AUTOIETF** (LTP: 24.42) - 204 shares  
+10. **METALIETF** (LTP: 9.57) - 522 shares  
+11. **INFRAIETF** (LTP: 96.14) - 51 shares  
+12. **CONSUMIETF** (LTP: 121.60) - 41 shares  
+13. **MOREALTY** (LTP: 99.00) - 50 shares  
+14. **GOLDIETF** (LTP: 82.67) - 60 shares  
+15. **SILVERIETF** (LTP: 107.20) - 46 shares  
+16. **MAHKTECH** (LTP: 22.01) - 227 shares  
+17. **GROWWRAIL** (LTP: 38.70) - 129 shares  
+18. **MOMENTUM50** (LTP: 55.10) - 90 shares  
+19. **MOQUALITY** (LTP: 200.45) - 24 shares  
+20. **ALPHAETF** (LTP: 25.99) - 192 shares  
+
+## Notes  
+- **Calculation**: Number of shares = 5,000 INR ÷ LTP, rounded down to the nearest whole share.  
+- **Data Source**: LTP from the provided CSV as of June 30, 2025.  
+- **Assumptions**: No transaction costs or minimum lot sizes considered, as these vary by broker and exchange.
